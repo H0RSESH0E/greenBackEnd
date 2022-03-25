@@ -8,7 +8,7 @@
 #### [Description](#description)  -  [Installation](#installation)  -  [Usage](#usage) - [License](#license) - [Contributing](#contributing) - [Tests](#tests) - [Questions](#questions)
 &nbsp;  
 ## Description  
-By modifying the starter code with Javascript and Node packages like Sequelize and MySQL, this application became an e-commerce website with a functional back end.  A rather important step in web development because this is how revenues are generated.  
+By modifying the starter code with Javascript and Node packages like Sequelize and MySQL, this application became an e-commerce website with a functional back end.  A rather important step in web development because this is how revenues are collected.  
 &nbsp;  
 <img src="./assets/images/screenshot.png" alt="Green Back End application screenshot" width="600"/>    
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
