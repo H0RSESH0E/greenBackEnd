@@ -8,10 +8,12 @@
 #### [Description](#description)  -  [Installation](#installation)  -  [Usage](#usage) - [License](#license) - [Contributing](#contributing) - [Tests](#tests) - [Questions](#questions)
 &nbsp;  
 ## Description  
-By modifying the starter code with Javascript and Node packages like Sequelize and MySQL, this application became an e-commerce website with a functional back end.  A rather important step in web development because this is how revenues are generated.  
+By modifying a significant amount of starter code with Javascript, this application became a fledgling e-commerce website's functional back end.  It's able to CRUD query a relational database to track product details and the categories they are in and the tags that are applied to them.  Keeping track of inventory and being able to display those details on a website is possible with this money-making back end.  
 &nbsp;  
-<img src="./assets/images/screenshot.png" alt="Green Back End application screenshot" width="600"/>    
+<img src="./public/assets/images/screenshot.png" alt="Green Back End application screenshot" width="600"/>    
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+&nbsp;  
+[Walk Through Video](https://drive.google.com/file/d/1JpwI3jyGpHwchN01v1tEQSV7WMvAzYAq/view)  
 &nbsp;  
 ## Installation
 After cloning the repository, install the npm packages and ensure your MySQL server is properly installed.  
